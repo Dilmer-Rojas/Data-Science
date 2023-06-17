@@ -8,6 +8,63 @@
         - Independencia lineal y bases.
         - Transformaciones lineales.
         - Autovalores y autovectores.
+
+        ~ Desarrollado más a detalle:
+
+            1. Introducción a Álgebra Lineal
+                - Definición de vectores y matrices
+                - Operaciones básicas: suma, resta, multiplicación escalar
+                - Notación matricial
+
+            2. Sistemas de Ecuaciones Lineales
+                - Sistemas de ecuaciones lineales y sus soluciones
+                - Representación matricial de sistemas de ecuaciones
+                - Método de eliminación de Gauss-Jordan
+                - Matrices escalonadas y reducidas por filas
+                - Rango de una matriz
+                - Independencia lineal y dependencia lineal
+
+            3. Espacios Vectoriales
+                - Definición de espacios vectoriales
+                - Subespacios vectoriales
+                - Base y dimensión de un espacio vectorial
+                - Combinación lineal y espacio generado
+                - Independencia lineal y base ortogonal
+
+            4. Transformaciones Lineales
+                - Definición de transformaciones lineales
+                - Matriz de una transformación lineal
+                - Núcleo y rango de una transformación lineal
+                - Teorema del rango y la nulidad
+                - Isomorfismos y cambios de base
+
+            5. Valores y Vectores Propios
+                - Definición de valores y vectores propios
+                - Diagonalización de matrices
+                - Polinomio característico y el teorema de Cayley-Hamilton
+                - Aplicaciones de los valores y vectores propios en data science
+
+            6. Descomposición de Valores Singulares (SVD)
+                - Introducción a la descomposición de valores singulares
+                - Propiedades de la descomposición de valores singulares
+                - Aplicaciones de la descomposición de valores singulares
+
+            7. Descomposición en Valores Propios (Eigendecomposition)
+                - Introducción a la descomposición en valores propios
+                - Propiedades de la descomposición en valores propios
+                - Aplicaciones de la descomposición en valores propios
+
+            8. Sistemas de Ecuaciones Lineales y Álgebra Lineal Numérica
+                - Solución numérica de sistemas de ecuaciones lineales
+                - Factorización LU y método de eliminación de Gauss
+                - Método de mínimos cuadrados
+                - Autovalores y autovectores dominantes
+
+            9. Álgebra Lineal en Aprendizaje Automático (Machine Learning)
+                - Regresión lineal y mínimos cuadrados
+                - Análisis de componentes principales (PCA)
+                - Métodos de clasificación lineal
+                - Reducción de dimensionalidad
     - Cálculo:
         - Derivadas e integrales.
         - Reglas de derivación.
